@@ -1,0 +1,149 @@
+body {
+  position: relative;
+}
+
+img {
+  width: 50px;
+}
+
+/* Robot 1 */
+#face {
+  width: 400px;
+  position: absolute;
+  top: 15rem;
+}
+#hat {
+  position: absolute;
+  top: 13rem;
+  left: 5rem;
+  width: 16rem;
+  z-index: 1;
+}
+#eyes1 {
+  position: absolute;
+  top: 26rem;
+  left: 8rem;
+  width: 9rem;
+  z-index: 1;
+}
+#nose2 {
+  position: absolute;
+  top: 28rem;
+  left: 9.5rem;
+  width: 6rem;
+  z-index: 1;
+}
+#mouth1 {
+  position: absolute;
+  top: 33rem;
+  left: 7rem;
+  width: 10rem;
+  z-index: 1;
+}
+#headphones {
+  position: absolute;
+  top: 13rem;
+  left: 2rem;
+  width: 22rem;
+}
+
+
+/* Robot 2 */
+#face2 {
+  width: 400px;
+  position: absolute;
+  top: 15rem;
+  left: 22rem;
+}
+#hair3 {
+  width: 24rem;
+  position: absolute;
+  top: 15rem;
+  left: 22rem;
+}
+#eyes2 {
+  width: 9rem;
+  position: absolute;
+  top: 27rem;
+  left: 29.5rem;
+  z-index: 1;
+}
+#nose1 {
+  width: 4rem;
+  position: absolute;
+  top: 28.5rem;
+  left: 31.75rem;
+  z-index: 1;
+}
+#mouth2 {
+  width: 6rem;
+  position: absolute;
+  top: 35rem;
+  left: 31.25rem;
+  z-index: 1;
+}
+#moustache {
+  width: 8rem;
+  position: absolute;
+  top: 32.5rem;
+  left: 30rem;
+  z-index: 1;
+}
+#bowtie {
+  width: 8rem;
+  position: absolute;
+  top: 38rem;
+  left: 30rem;
+  z-index: 1;
+}
+#crown {
+  width: 20rem;
+  position: absolute;
+  top: 9rem;
+  left: 26rem;
+  z-index: 1;
+  transform: rotate(10deg);
+}
+
+/* Robot 3 */
+#face3 {
+  width: 400px;
+  position: absolute;
+  top: 15rem;
+  left: 46rem;
+}
+#eyes3 {
+  width: 9rem;
+  position: absolute;
+  top: 27rem;
+  left: 54rem;
+  z-index: 1;
+}
+#nose3 {
+  width: 6rem;
+  position: absolute;
+  top: 29rem;
+  left: 55.5rem;
+  z-index: 1;
+}
+#mouth3 {
+  width: 6rem;
+  position: absolute;
+  top: 35rem;
+  left: 55.5rem;
+  z-index: 1;
+}
+#hair2 {
+  width: 19rem;
+  position: absolute;
+  top: 20rem;
+  left: 49rem;
+  z-index: 1;
+}
+#bird {
+  width: 7rem;
+  position: absolute;
+  top: 18rem;
+  left: 51rem;
+  z-index: 2;
+}
